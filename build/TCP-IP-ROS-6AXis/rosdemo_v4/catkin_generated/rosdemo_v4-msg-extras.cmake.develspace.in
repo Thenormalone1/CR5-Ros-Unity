@@ -1,0 +1,2 @@
+set(rosdemo_v4_MESSAGE_FILES "")
+set(rosdemo_v4_SERVICE_FILES "/home/youssef/catkin_ws/src/TCP-IP-ROS-6AXis/rosdemo_v4/srv/EnableRobot.srv;/home/youssef/catkin_ws/src/TCP-IP-ROS-6AXis/rosdemo_v4/srv/DisableRobot.srv;/home/youssef/catkin_ws/src/TCP-IP-ROS-6AXis/rosdemo_v4/srv/ClearError.srv;/home/youssef/catkin_ws/src/TCP-IP-ROS-6AXis/rosdemo_v4/srv/GetErrorID.srv;/home/youssef/catkin_ws/src/TCP-IP-ROS-6AXis/rosdemo_v4/srv/MovJ.srv")
